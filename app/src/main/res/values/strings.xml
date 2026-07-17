@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SumaFacturas</string>
+    <string name="main_subtitle">Cuenta y suma facturas a partir de una foto o captura de pantalla. No se conecta a ningun sistema de facturacion.</string>
+    <string name="btn_take_photo">Tomar foto</string>
+    <string name="btn_pick_image">Seleccionar imagen</string>
+    <string name="btn_add_another">Agregar otra imagen</string>
+    <string name="btn_view_results">Ver resultados</string>
+    <string name="btn_manual_entry">Ingreso manual</string>
+    <string name="no_images_yet">Ninguna imagen procesada todavia</string>
+
+    <string name="crop_instruction_table">Ajusta el rectangulo sobre la tabla (Referencia, Transaccion, Valor)</string>
+    <string name="btn_select_valor_column">Seleccionar columna Valor</string>
+    <string name="btn_process_image">Analizar imagen</string>
+
+    <string name="review_title">Revision de resultados</string>
+    <string name="hint_referencia">Referencia</string>
+    <string name="hint_valor">Valor</string>
+    <string name="btn_confirm_results">Confirmar y ver total</string>
+
+    <string name="results_title">Resultado del escaneo</string>
+    <string name="btn_new_scan">Nuevo escaneo</string>
+</resources>
